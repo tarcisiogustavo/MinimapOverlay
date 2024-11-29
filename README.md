@@ -65,3 +65,11 @@ or
 
 ### Contact
 Discord: arron_0n
+
+
+## License
+
+This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License**.  
+You may use, modify, and share the software as long as it is not for commercial purposes.  
+
+For full license details, visit: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
